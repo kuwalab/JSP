@@ -9,7 +9,8 @@
 こんにちはJSP<br>
 JSPとELを見直そう<br>
 <ul>
- <li><a href="02.jsp">02</a>
+ <li><a href="02.jsp">02</a><br>
+ <li><a href="s03">03</a>
 </ul>
  </body>
 </html>
