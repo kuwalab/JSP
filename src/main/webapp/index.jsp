@@ -14,6 +14,7 @@ JSPとELを見直そう<br>
  <li><a href="04.jsp">04 - 属性値を設定する</a></li>
  <li><a href="05.jsp">05 - ボディ部を設定する</a></li>
  <li><a href="s06">06 - Enumをc:ifで使用する</a></li>
+ <li><a href="07.jsp">07 - ELでLambdaを有効に使いたい1</a></li>
 </ul>
  </body>
 </html>
